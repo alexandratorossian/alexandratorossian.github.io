@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
+- name: PHP
   percentage: 90
   color: danger
 
-- name: Go
+- name: Symfony
   percentage: 80
   color:
 
-- name: Python
+- name: Javascript
   percentage: 70
   color: secondary
